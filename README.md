@@ -11,22 +11,12 @@ Use $interview-position-prep to analyze this JD and my resume, then prepare inte
 
 ## 💡 Why I Built This
 
-Interview preparation becomes especially difficult when the target role is clear, but the candidate does not have a perfectly vertical internship or work experience for it.
+Many candidates are not short of experience. They are short of a method to connect their existing experience with a specific role.
 
-A student applying for product operations may come from research, campus projects, competitions, student organizations, business analysis, accounting, design, writing, or even an unfinished personal product. These experiences are not "irrelevant", but they are often not ready to be used in an interview.
+`interview-position-prep` starts from a target JD, mines the candidate's profile for transferable evidence, and turns that evidence into interview-ready language.
 
-The real problem is not always a lack of experience.  
-It is the lack of a method to read a JD, identify what the role is actually evaluating, and then mine the candidate's existing profile for transferable evidence.
+The goal is not to package a candidate into someone they are not. It is to help them explain their real experience in a way that is concrete, truthful, and role-relevant.
 
-JD says "user growth", "data analysis", "content operation", "cross-functional collaboration", or "product thinking".  
-The candidate's profile may say "competition project", "research report", "student association", "case study", "audit internship", or "campus service platform".
-
-`interview-position-prep` is built for this gap.
-
-It starts from a specific job description, searches the candidate's existing materials for useful signals, and turns those signals into interview-ready expression: fit analysis, resume revision directions, self-introduction material, STAR stories, phrase banks, and follow-up answer points.
-
-The goal is not to package a candidate into someone they are not.  
-The goal is to help them discover which parts of their real experience can speak to this role, and how to say it clearly.
 
 ## 🧩 What It Does
 
