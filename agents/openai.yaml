@@ -1,0 +1,4 @@
+interface:
+  display_name: "Interview Position Prep"
+  short_description: "Turn a JD and resume into interview-ready materials."
+  default_prompt: "Use $interview-position-prep to match my resume to this job description and draft interview-ready talking points."
